@@ -1,4 +1,4 @@
-🧾 CHANGE LOG — Final POE (MAST5112)
+ CHANGE LOG — Final POE (MAST5112)
 
  Student:Mulanga Matenzhe
  Student number:ST10479952
@@ -16,6 +16,7 @@ Created functionality to add new menu items (name, price, and course).
 Added ability to calculate and display the total number of menu items.
 
 Implemented basic navigation between pages using React Navigation.
+All the functionalities are working .
 
 # Refactoring
 
